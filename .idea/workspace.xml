@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5922e122-641b-4799-8d2b-74e2b272f542" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/logica/lexico/Categoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/logica/lexico/Error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/logica/lexico/Categoria.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/logica/lexico/Error.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/logica/lexico/AnalizadorLexico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/logica/lexico/Categoria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/logica/lexico/Error.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/uniquindio/compiladores/logica/lexico/Token.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -52,7 +57,7 @@
       <updated>1618047434491</updated>
       <workItem from="1618047450655" duration="137000" />
       <workItem from="1618047760748" duration="1099000" />
-      <workItem from="1618048906180" duration="1970000" />
+      <workItem from="1618048906180" duration="2600000" />
     </task>
     <servers />
   </component>
