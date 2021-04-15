@@ -4,7 +4,7 @@ import co.edu.uniquindio.compiladores.logica.lexico.Categoria
 
 /*
 Clase para reconocer los tokens del analizador lexico
-@autor Diego riveros, Stefanny Roman & Daniel Loaiza
+@autor Diego Diaz y Daniel Loaiza
  */
 
 class Error (var error:String, var fila:Int, var columna:Int) {
